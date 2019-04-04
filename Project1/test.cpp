@@ -2,6 +2,6 @@
 
 int main()
 {
-	ptintf("hello world!");
+	printf("hello world!");
 	return 0;
 }
